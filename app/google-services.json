@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "640219486093",
+    "project_id": "wallpaper-e680d",
+    "storage_bucket": "wallpaper-e680d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640219486093:android:2a430408ec82d78228cfc4",
+        "android_client_info": {
+          "package_name": "mhmd.salem.wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640219486093-a3gp6i51f59ee1e9abtdskpfi2a2rl0a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mhmd.salem.wallpaper",
+            "certificate_hash": "c8df156fa2ff33316b61e7bb7d50ee0301913db6"
+          }
+        },
+        {
+          "client_id": "640219486093-e8ebcrrpap4uqlsuhnv63b102khksufs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXSAnPBIz3ehoklc7QB-YhvpZL32VVAtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640219486093-e8ebcrrpap4uqlsuhnv63b102khksufs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
